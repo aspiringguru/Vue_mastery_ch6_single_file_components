@@ -3,7 +3,6 @@ import Router from 'vue-router'
 import EventCreate from './views/EventCreate.vue'
 import EventList from './views/EventList.vue'
 import EventShow from './views/EventShow.vue'
-import EventCard from './views/EventCard.vue'
 
 Vue.use(Router)
 
