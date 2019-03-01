@@ -25,11 +25,6 @@ export default new Router({
       path: '/event/create',
       name: 'event-create',
       component: EventCreate
-    },
-    {
-      path: '/eventcard',
-      name: 'event-card',
-      component: EventCard
     }
   ]
 })
